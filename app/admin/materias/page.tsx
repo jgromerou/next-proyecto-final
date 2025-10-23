@@ -1,4 +1,4 @@
-export const dynamic = "force-dynamic";
+
 
 import Heading from "@/components/ui/Heading";
 import Link from "next/link";
